@@ -1,4 +1,4 @@
-# Hi — I'm Bianca Braga 👋
+# Hi — I'm Bianca Braga 🌿
 
 I'm a curious Industrial Design student based in Seoul, South Korea. I explore the intersection of industrial design, electrical engineering, and code to create tangible, meaningful product experiences — especially Physical User Interfaces (PUI). Right now I'm building projects that connect product UX and physical computing.
 
@@ -39,8 +39,6 @@ I'm a curious Industrial Design student based in Seoul, South Korea. I explore t
 - Python  
 - C / C++
 
-(If you'd like, I can list specific tools and languages you use — e.g., Arduino, Processing, Python, Figma — just tell me which.)
-
 ---
 
 ## Recent highlights
@@ -55,21 +53,6 @@ I'm a curious Industrial Design student based in Seoul, South Korea. I explore t
 - Location: Seoul, South Korea  
 - Availability: Open to work
 
----
 
-## How to collaborate
-- I’m interested in interdisciplinary projects that combine design, electronics, and software.  
-- I enjoy working with engineers and developers to make physical products functional and delightful.  
-- Open to freelance, contract, and full-time opportunities.
 
----
 
-## Next steps — what I can add for you
-If you want, I can update the README with any of the following:
-- Project entries with repo/demo links and 1-line descriptions  
-- Portfolio / website link or embedded visuals  
-- More detailed tool/language proficiency levels (beginner → advanced)  
-- Pronouns, a short CV, or a profile photo  
-- Links to published write-ups, videos, or demos
-
-Tell me which items above you want included (or paste links and short descriptions), and I’ll update the README accordingly.
